@@ -1,0 +1,26 @@
+[
+    {
+        "model": "products.productcategory",
+        "pk": 1,
+        "fields": {
+            "name": "╬фхцфр",
+            "description": "╬яшёрэшх фы  юфхцф√"
+        }
+    },
+    {
+        "model": "products.productcategory",
+        "pk": 2,
+        "fields": {
+            "name": "├рыю°ш",
+            "description": "╬яшёрэшх фы  юфхцф√"
+        }
+    },
+    {
+        "model": "products.productcategory",
+        "pk": 3,
+        "fields": {
+            "name": "╩ря■°юэ",
+            "description": "╬яшёрэшх фы  юфхцф√"
+        }
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "model": "products.product",
+        "pk": 1,
+        "fields": {
+            "name": "╧штючртЁ",
+            "description": "╘єЄсюыър фы  уюхт",
+            "price": "100.00",
+            "quantity": 3,
+            "image": "products_images/STAR.jpg",
+            "category": 1
+        }
+    }
+]
